@@ -33,17 +33,17 @@
   height: 100px;
 }
 
-.vo6 {
-  background-color: #8c2727;
-  width: 250px;
-  height: 100px;
-}
-
 .vo5 {
   background-color: #ff9e6b;
   width: 100px;
   height: 150px;
   float: left;
+}
+
+.vo6 {
+  background-color: #8c2727;
+  width: 250px;
+  height: 100px;
 }
 
 .vo7 {
