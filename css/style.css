@@ -1,0 +1,59 @@
+@charset "utf-8";
+
+.vo1 {
+  background-color: #ff0000;
+  width: 400px;
+  height: 100px;
+}
+
+.vo2 {
+  background-color: #00ff51;
+  width: 150px;
+  height: 250px;
+  float: left;
+}
+
+.vo3456 {
+  float: left;
+}
+
+.vo34 {
+  float: left;
+}
+
+.vo3 {
+  background-color: #cc00db;
+  width: 150px;
+  height: 50px;
+}
+
+.vo4 {
+  background-color: #0093d7;
+  width: 150px;
+  height: 100px;
+}
+
+.vo6 {
+  background-color: #8c2727;
+  width: 250px;
+  height: 100px;
+}
+
+.vo5 {
+  background-color: #ff9e6b;
+  width: 100px;
+  height: 150px;
+  float: left;
+}
+
+.vo7 {
+  background-color: #fff700;
+  width: 400px;
+  height: 100px;
+}
+
+.clearfix::after {
+  content: "";
+  display: block;
+  clear: both;
+}
